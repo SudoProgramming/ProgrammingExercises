@@ -1,9 +1,13 @@
+/**
+* A ReverseLinkedList class to reverse a linked list with the head or the list
+*/
 public class ReverseLinkedList {
-    /// <summary>
-    /// Reverses the Singular Linked List Iteratively
-    /// </summary>
-    /// <param name="head">The head of the linked list</param>
-    /// <returns>The head of the reversed linked list</returns>
+    /**
+    * Reverses the Singular Linked List Iteratively
+    *
+    * @param head The head of the linked list
+    * @return Node The head of the reversed linked list
+    */
     public static Node ReverseLinkedList(Node head)
     {
         // Initalizes tracking variables so we can freely reverse without dropping a node
