@@ -29,6 +29,7 @@ NULL
 **Explanation**
 
 *1. Empty list remains empty *
+
 *2. List is reversed from 2,3 to 3,2*
 
 ---
