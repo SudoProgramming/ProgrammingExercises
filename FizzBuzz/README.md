@@ -2,7 +2,7 @@
 
 ### The Problem
 
-*Write a short program that prints each number from 1 to 100 on a new line.*
+*Write a short program that prints a response for the given number 1 - 100*
 
 *For each multiple of 3, print "Fizz" instead of the number.*
 
